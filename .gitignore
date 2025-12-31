@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Data (PRIVATE)
+data/raw/
+data/*.csv
+
+# Models
+models/*.h5
+models/*.keras
+
+# OpenCV temp
+*.avi
+*.mp4
